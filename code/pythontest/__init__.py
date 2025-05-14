@@ -1,1 +1,1 @@
-#encoding
+#encoding=utf-8
